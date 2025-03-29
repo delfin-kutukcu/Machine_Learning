@@ -33,11 +33,10 @@ To run the notebook or scripts:
 ```bash
 pip install -r requirements.txt
 
----
-
-# Machine Learning Project Structure
-
 ```
+```
+### 🗂️ **Machine Learning Project Structure**
+
 Machine_Learning/
 │
 ├── ML_Spotify_Analysis/
@@ -59,4 +58,3 @@ Machine_Learning/
 │
 └── README.md
 ```
-
