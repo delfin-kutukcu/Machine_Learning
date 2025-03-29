@@ -34,9 +34,9 @@ To run the notebook or scripts:
 pip install -r requirements.txt
 
 
-### 📌 **Project Structure**
-
 ```
+
+### 📌 **Project Structure**
 ML_Spotify_Analysis/
 │
 ├── datasets/
@@ -53,4 +53,4 @@ ML_Spotify_Analysis/
 │
 ├── requirements.txt
 └── README.md
-```
+
