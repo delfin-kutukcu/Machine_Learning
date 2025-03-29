@@ -28,14 +28,16 @@ All visual outputs (correlation heatmaps, residual plots, distribution plots) ca
 
 ---
 
+
 ### 🛠️ **Requirements**
 To run the notebook or scripts:
 ```bash
 pip install -r requirements.txt
+```
+---
 
-```
-```
 ### 🗂️ **Machine Learning Project Structure**
+```
 
 Machine_Learning/
 │
