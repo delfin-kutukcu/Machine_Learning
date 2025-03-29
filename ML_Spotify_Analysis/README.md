@@ -33,24 +33,30 @@ To run the notebook or scripts:
 ```bash
 pip install -r requirements.txt
 
+---
+
+# Machine Learning Project Structure
 
 ```
-
-### 📌 **Project Structure**
-ML_Spotify_Analysis/
+Machine_Learning/
 │
-├── datasets/
-│   └── spotify.csv
+├── ML_Spotify_Analysis/
+│   │
+│   ├── datasets/
+│   │   └── spotify.csv
+│   │
+│   ├── notebooks/
+│   │   └── spotify_analysis.ipynb
+│   │
+│   ├── scripts/
+│   │   └── spotify_analysis.py
+│   │
+│   ├── visuals/
+│   │   └── (visualization outputs)
+│   │
+│   ├── requirements.txt
+│   └── README.md
 │
-├── notebooks/
-│   └── spotify_analysis.ipynb
-│
-├── scripts/
-│   └── spotify_analysis.py
-│
-├── visuals/
-│   └── (visualization outputs)
-│
-├── requirements.txt
 └── README.md
+```
 
