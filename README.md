@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Breast Cancer Classification Analysis
 
 ## Project Overview
@@ -39,3 +40,17 @@ breast_cancer_classification/
 ## Data Source
 - [Breast Cancer Wisconsin Dataset (Kaggle)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
+=======
+# Machine Learning Projects
+
+This repository contains various Machine Learning projects demonstrating data exploration, preprocessing, visualization, model building, and evaluation.
+
+---
+
+## 📁 Projects Overview:
+
+- **[ML Spotify Analysis](ML_Spotify_Analysis/README.md)**  
+  A complete analysis of Spotify song attributes using Linear Regression and statistical analysis.
+
+*(Add other projects similarly in the future.)*
+>>>>>>> 1b60a31c8bb27470cbdc225f949002f9a38553f5
